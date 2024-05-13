@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-### Name: SANJAI L
-### Reg.NO: 212223230184
+### Name: SANJAI S
+### Reg.NO: 212223230185
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
